@@ -1,7 +1,7 @@
 export default function Landing() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-white">
-      <div className="text-center">
+      <div className="text-center animate-float">
         <h1 className="text-6xl font-bold text-gray-900 mb-4">
           Hello World
         </h1>
@@ -12,5 +12,6 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
